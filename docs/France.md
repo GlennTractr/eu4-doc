@@ -1,70 +1,3 @@
- France - Europa Universalis 4 Wiki document.documentElement.className = "client-js"; RLCONF = { wgBreakFrames: !1, wgSeparatorTransformTable: \["", ""\], wgDigitTransformTable: \["", ""\], wgDefaultDateFormat: "dmy", wgMonthNames: \[ "", "January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December", \], wgRequestId: "76ac2b82776dbb88c4201e2a", wgCSPNonce: !1, wgCanonicalNamespace: "", wgCanonicalSpecialPageName: !1, wgNamespaceNumber: 0, wgPageName: "France", wgTitle: "France", wgCurRevisionId: 153689, wgRevisionId: 153689, wgArticleId: 24, wgIsArticle: !0, wgIsRedirect: !1, wgAction: "view", wgUserName: null, wgUserGroups: \["\*"\], wgCategories: \[ "Articles with potentially outdated infoboxes", "Pages with broken file links", "Potentially outdated", "1.28", "Countries", \], wgPageContentLanguage: "en", wgPageContentModel: "wikitext", wgRelevantPageName: "France", wgRelevantArticleId: 24, wgIsProbablyEditable: !0, wgRelevantPageIsProbablyEditable: !0, wgRestrictionEdit: \[\], wgRestrictionMove: \[\], wgULSAcceptLanguageList: \["en-gb", "en", "en-us"\], wgULSCurrentAutonym: "British English", wgMFDisplayWikibaseDescriptions: { search: !1, nearby: !1, watchlist: !1, tagline: !1, }, wgMediaViewerOnClick: !0, wgMediaViewerEnabledByDefault: !0, wgVisualEditor: { pageLanguageCode: "en", pageLanguageDir: "ltr", pageVariantFallbacks: "en", }, wgPopupsReferencePreviews: !1, wgPopupsConflictsWithNavPopupGadget: !1, wgCategoryTreePageCategoryOptions: '{"mode":0,"hideprefix":20,"showcount":true,"namespaces":false}', wgULSPosition: "personal", wgEditSubmitButtonLabelPublish: !1, }; RLSTATE = { "site.styles": "ready", noscript: "ready", "user.styles": "ready", user: "ready", "user.options": "loading", "jquery.makeCollapsible.styles": "ready", "mediawiki.toc.styles": "ready", "skins.vectorparadox.styles": "ready", "mediawiki.ui.icon": "ready", "skins.vectorparadox.icons": "ready", "ext.uls.pt": "ready", "ext.visualEditor.desktopArticleTarget.noscript": "ready", }; RLPAGEMODULES = \[ "ext.tabber", "site", "mediawiki.page.startup", "mediawiki.page.ready", "jquery.makeCollapsible", "mediawiki.toc", "skins.vectorparadox.js", "ext.uls.interface", "mmv.head", "mmv.bootstrap.autostart", "ext.lazyload", "ext.visualEditor.desktopArticleTarget.init", "ext.visualEditor.targetLoader", "ext.ParadoxBrazeIntegration.braze", \]; (RLQ = window.RLQ || \[\]).push(function () { mw.loader.implement( "user.options@1hzgi", function ($, jQuery, require, module) { /\*@nomin\*/ mw.user.tokens.set({ patrolToken: "+\\\\", watchToken: "+\\\\", csrfToken: "+\\\\", }); } ); });            
-
-[Forum list](https://forum.paradoxplaza.com/forum/forums/) [Trending](https://forum.paradoxplaza.com/forum/threads/trending) [Latest](https://forum.paradoxplaza.com/forum/threads/latest) [New posts](https://forum.paradoxplaza.com/forum/threads/newest)
-
-Paradox
-
-[Store](https://www.paradoxplaza.com/) [Mods](https://mods.paradoxplaza.com/) [Forum](https://forum.paradoxplaza.com/forum/forums/) [Launcher](https://play.paradoxplaza.com/) [PDXCON 2019](https://pdxcon.paradoxplaza.com/?utm_source=pdxplaza-owned&utm_medium=web-owned&utm_content=topmenu-banner&utm_campaign=pc18_pdxcon_20190412_cawe_ann)
-
-[
-
-Paradox Wikis
-
-](/)
-
-Europa Universalis 4 Wiki
-
-Active Wikis
-
-[Age of Wonders 4](https://aow4.paradoxwikis.com/) [Empire of Sin](https://eos.paradoxwikis.com/Empire_of_Sin_Wiki) [Cities: Skylines](https://skylines.paradoxwikis.com/Cities:_Skylines_Wiki) [Crusader Kings 3](https://ck3.paradoxwikis.com/Crusader_Kings_III_Wiki) [Europa Universalis 4](https://eu4.paradoxwikis.com/Europa_Universalis_4_Wiki) [Hearts of Iron 4](https://hoi4.paradoxwikis.com/Hearts_of_Iron_4_Wiki) [Imperator: Rome](https://imperator.paradoxwikis.com/Imperator_Wiki) [Prison Architect](https://prisonarchitect.paradoxwikis.com/) [Stellaris](https://stellaris.paradoxwikis.com/Stellaris_Wiki) [Surviving Mars](https://survivingmars.paradoxwikis.com/Surviving_Mars_Wiki) [Surviving the Aftermath](https://sta.paradoxwikis.com/Surviving_The_Aftermath_Wiki) [Vampire: The Masquerade](https://vtm.paradoxwikis.com/VTM_Wiki) [Victoria 3](https://vic3.paradoxwikis.com/Victoria_3_Wiki)
-
-Legacy Wikis
-
-[AoW: Planetfall](https://aowplanetfall.paradoxwikis.com/AoW_Planetfall_Wiki) [Crusader Kings 2](https://ck2.paradoxwikis.com/Crusader_Kings_II_Wiki) [Arsenal of Democracy](https://aod.paradoxwikis.com/Main_Page) [Europa Universalis 2](https://eu2.paradoxwikis.com/Main_Page) [Europa Universalis 3](https://eu3.paradoxwikis.com/Europa_Universalis_3_Wiki) [Europa Universalis: Rome](https://eurome.paradoxwikis.com/Europa_Universalis:_Rome_Wiki) [Hearts of Iron 2](https://hoi2.paradoxwikis.com/Main_Page) [Hearts of Iron 3](https://hoi3.paradoxwikis.com/Hearts_of_Iron_3_Wiki) [Tyranny](https://tyranny.paradoxwikis.com/Tyranny_Wiki) [Victoria 1](https://vic1.paradoxwikis.com/Main_Page) [Victoria 2](https://vic2.paradoxwikis.com/Victoria_2_Wiki)
-
-### Search
-
-   
-
-### Personal tools
-
-Log in
-
-### Personal tools
-
-*   [British English](#)
-*   Not logged in
-*   [Talk](/Special:MyTalk "Discussion about edits from this IP address [n]")
-*   [Contributions](/Special:MyContributions "A list of edits made from this IP address [y]")
-*   [Log in](/index.php?title=Special:UserLogin&returnto=France "You are encouraged to log in; however, it is not mandatory [o]")
-
-[![Europa Universalis 4 Wiki](/images/wiki.PNG?wordmark)](/Europa_Universalis_4_Wiki)
-
-### Navigation
-
-*   [Main page](/Europa_Universalis_4_Wiki "Visit the main page [z]")
-*   [Recent changes](/Special:RecentChanges "A list of recent changes in the wiki [r]")
-*   [Random page](/Special:Random "Load a random page [x]")
-*   [Style guidelines](/Europa_Universalis_4_Wiki:Style)
-*   [Wiki support](/Contact_us)
-
-### Paradox links
-
-*   [\- Wikis](https://paradoxwikis.com/)
-*   [\- Forums](https://forum.paradoxplaza.com/forum/index.php?forums/europa-universalis-iv.731/)
-*   [\- Mods](https://mods.paradoxplaza.com/games/eu4?orderBy=desc&sortBy=best)
-*   [\- Store](https://www.paradoxplaza.com/europa-universalis-all/?utm_source=pdxwiki-owned&utm_medium=social-owned&utm_content=link&utm_campaign=eu_eu_20201026_past_noty)
-*   [\- Twitch](https://www.twitch.tv/paradoxinteractive/)
-
-### Tools
-
-*   [What links here](/Special:WhatLinksHere/France "A list of all wiki pages that link here [j]")
-*   [Related changes](/Special:RecentChangesLinked/France "Recent changes in pages linked from this page [k]")
-*   [Special pages](/Special:SpecialPages "A list of all special pages [q]")
-*   [Printable version](javascript:print(); "Printable version of this page [p]")
-*   [Permanent link](/index.php?title=France&oldid=153689 "Permanent link to this revision of the page")
-*   [Page information](/index.php?title=France&action=info "More information about this page")
-
 France
 ======
 
@@ -274,7 +207,7 @@ _This year will mark the beginning of an evolutionary period for our nation. The
 
 * * *
 
- 
+Expand 
 
 Potential requirements
 
@@ -363,7 +296,7 @@ _The land around the small village of Versailles has long been excellent hunting
 
 * * *
 
- 
+Expand 
 
 Potential requirements
 
@@ -412,7 +345,7 @@ _Granted the right to rule by the grace of God and God alone we should not allow
 
 * * *
 
- 
+Expand 
 
 Potential requirements
 
@@ -461,7 +394,7 @@ _The realm was so torn by innumerable factions and sects that the most legitimat
 
 * * *
 
- 
+Expand 
 
 Potential requirements
 
@@ -509,7 +442,7 @@ _We have determined that we can do nothing better than entirely revoke the said 
 
 * * *
 
- 
+Expand 
 
 Potential requirements
 
@@ -546,7 +479,7 @@ _In order to effectively tax things we need to regulate them. If we were to desi
 
 * * *
 
- 
+Expand 
 
 Potential requirements
 
@@ -708,6 +641,13 @@ Country guides
 
 **
 
+*   [Europe](javascript:void(0); "Europe")
+*   [Africa](javascript:void(0); "Africa")
+*   [Asia](javascript:void(0); "Asia")
+*   [North America](javascript:void(0); "North America")
+*   [South America](javascript:void(0); "South America")
+*   [Oceania](javascript:void(0); "Oceania")
+
 Western technology group [![Western.png](/images/thumb/9/95/Western.png/18px-Western.png)](/File:Western.png)
 
  [![Aragon.png](/images/thumb/6/61/Aragon.png/18px-Aragon.png)](/Aragon "Aragon") [Aragon](/Aragon "Aragon") [![Austria.png](/images/thumb/7/7f/Austria.png/18px-Austria.png)](/Austria "Austria") [Austria](/Austria "Austria") [![Bohemia.png](/images/thumb/4/41/Bohemia.png/18px-Bohemia.png)](/Bohemia "Bohemia") [Bohemia](/Bohemia "Bohemia") [![Brittany.png](/images/thumb/1/1c/Brittany.png/18px-Brittany.png)](/Brittany "Brittany") [Brittany](/Brittany "Brittany") [![Brunswick.png](/images/thumb/c/cc/Brunswick.png/18px-Brunswick.png)](/Brunswick "Brunswick") [Brunswick](/Brunswick "Brunswick") [![Burgundy.png](/images/thumb/b/b0/Burgundy.png/18px-Burgundy.png)](/Burgundy "Burgundy") [Burgundy](/Burgundy "Burgundy") [![Castile.png](/images/thumb/e/ee/Castile.png/18px-Castile.png)](/Castile "Castile") [Castile](/Castile "Castile") [![Danzig.png](/images/thumb/4/4e/Danzig.png/18px-Danzig.png)](/Danzig "Danzig") [Danzig](/Danzig "Danzig") [![Denmark.png](/images/thumb/6/69/Denmark.png/18px-Denmark.png)](/Denmark "Denmark") [Denmark](/Denmark "Denmark") [![Dithmarschen.png](/images/thumb/3/34/Dithmarschen.png/18px-Dithmarschen.png)](/Dithmarschen "Dithmarschen") [Dithmarschen‎‎](/Dithmarschen "Dithmarschen") [![England.png](/images/thumb/2/21/England.png/18px-England.png)](/England "England") [England](/England "England") [![France.png](/images/thumb/d/de/France.png/18px-France.png)](/France "France") France [![Genoa.png](/images/thumb/f/fc/Genoa.png/18px-Genoa.png)](/Genoa "Genoa") [Genoa](/Genoa "Genoa") [![Germany.png](/images/thumb/9/9b/Germany.png/18px-Germany.png)](/Germany "Germany") [Germany](/Germany "Germany") [![Gotland.png](/images/thumb/2/2c/Gotland.png/18px-Gotland.png)](/Gotland "Gotland") [Gotland](/Gotland "Gotland") [![Hesse.png](/images/thumb/2/2a/Hesse.png/18px-Hesse.png)](/Hesse "Hesse") [Hesse](/Hesse "Hesse") [![Holland.png](/images/thumb/6/60/Holland.png/18px-Holland.png)](/Holland "Holland") [Holland](/Holland "Holland") [![Ireland.png](/images/thumb/4/4b/Ireland.png/18px-Ireland.png)](/Ireland "Ireland") [Ireland](/Ireland "Ireland") [![Italy.png](/images/thumb/2/2a/Italy.png/18px-Italy.png)](/Italy "Italy") [Italy](/Italy "Italy") [![Kurland.png](/images/thumb/a/ab/Kurland.png/18px-Kurland.png)](/Kurland "Kurland") [Kurland](/Kurland "Kurland") [![Milan.png](/images/thumb/d/d6/Milan.png/18px-Milan.png)](/Milan "Milan") [Milan](/Milan "Milan") [![Naples.png](/images/thumb/b/b8/Naples.png/18px-Naples.png)](/Naples "Naples") [Naples](/Naples "Naples") [![Navarra.png](/images/thumb/9/9a/Navarra.png/18px-Navarra.png)](/Navarra "Navarra") [Navarra](/Navarra "Navarra") [![Pomerania.png](/images/thumb/1/1b/Pomerania.png/18px-Pomerania.png)](/Pomerania "Pomerania") [Pomerania](/Pomerania "Pomerania") [![Portugal.png](/images/thumb/1/12/Portugal.png/18px-Portugal.png)](/Portugal "Portugal") [Portugal](/Portugal "Portugal") [![Provence.png](/images/thumb/b/bd/Provence.png/18px-Provence.png)](/Provence "Provence") [Provence](/Provence "Provence") [![Savoy.png](/images/thumb/e/ef/Savoy.png/18px-Savoy.png)](/Savoy "Savoy") [Savoy](/Savoy "Savoy") [![Spain.png](/images/thumb/5/58/Spain.png/18px-Spain.png)](/Spain "Spain") [Spain](/Spain "Spain") [![Sweden.png](/images/thumb/9/98/Sweden.png/18px-Sweden.png)](/Sweden "Sweden") [Sweden](/Sweden "Sweden") [![Switzerland.png](/images/thumb/0/01/Switzerland.png/18px-Switzerland.png)](/Switzerland "Switzerland") [Switzerland](/Switzerland "Switzerland") [![The Papal State.png](/images/thumb/7/71/The_Papal_State.png/18px-The_Papal_State.png)](/The_Papal_State "The Papal State") [The Papal State](/The_Papal_State "The Papal State") [![Venice.png](/images/thumb/e/e1/Venice.png/18px-Venice.png)](/Venice "Venice") [Venice](/Venice "Venice") [![Wales.png](/images/thumb/d/d9/Wales.png/18px-Wales.png)](/Wales "Wales") [Wales](/Wales "Wales")
@@ -786,7 +726,7 @@ Polynesian technology group [![Polynesian.png](/images/thumb/8/86/Polynesian.png
 
  [![Aotearoa.png](/images/thumb/b/bc/Aotearoa.png/18px-Aotearoa.png)](/Aotearoa "Aotearoa") [Aotearoa](/Aotearoa "Aotearoa") [![Hawai'i.png](/images/thumb/a/a5/Hawai%27i.png/18px-Hawai%27i.png)](/Hawai%27i "Hawai'i") [Hawai'i](/Hawai%27i "Hawai'i") [![Ngapuhi.png](/images/thumb/b/b6/Ngapuhi.png/18px-Ngapuhi.png)](/Ngapuhi "Ngapuhi") [Ngapuhi](/Ngapuhi "Ngapuhi") [![Ngati Awa.png](/images/thumb/b/bd/Ngati_Awa.png/18px-Ngati_Awa.png)](/Ngati_Awa "Ngati Awa") [Ngati Awa](/Ngati_Awa "Ngati Awa") [![Ngati Kahungunu.png](/images/thumb/e/e7/Ngati_Kahungunu.png/18px-Ngati_Kahungunu.png)](/Ngati_Kahungunu "Ngati Kahungunu") [Ngati Kahungunu](/Ngati_Kahungunu "Ngati Kahungunu") [![Ngati Ranginui.png](/images/thumb/e/e8/Ngati_Ranginui.png/18px-Ngati_Ranginui.png)](/Ngati_Ranginui "Ngati Ranginui") [Ngati Ranginui](/Ngati_Ranginui "Ngati Ranginui") [![Ngati Toa.png](/images/thumb/9/9e/Ngati_Toa.png/18px-Ngati_Toa.png)](/Ngati_Toa "Ngati Toa") [Ngati Toa](/Ngati_Toa "Ngati Toa") [![Tainui.png](/images/thumb/1/13/Tainui.png/18px-Tainui.png)](/Tainui "Tainui") [Tainui](/Tainui "Tainui") [![Waitaha.png](/images/thumb/6/62/Waitaha.png/18px-Waitaha.png)](/Waitaha "Waitaha") [Waitaha](/Waitaha "Waitaha")
 
-Retrieved from ‘[https://eu4.paradoxwikis.com/index.php?title=France&oldid=153689](https://eu4.paradoxwikis.com/index.php?title=France&oldid=153689)’
+Retrieved from "[https://eu4.paradoxwikis.com/index.php?title=France&oldid=153689](https://eu4.paradoxwikis.com/index.php?title=France&oldid=153689)"
 
 [Categories](/Special:Categories "Special:Categories"):
 
@@ -798,83 +738,3 @@ Hidden categories:
 
 *   [Articles with potentially outdated infoboxes](/Category:Articles_with_potentially_outdated_infoboxes "Category:Articles with potentially outdated infoboxes")
 *   [Pages with broken file links](/Category:Pages_with_broken_file_links "Category:Pages with broken file links")
-
-Toggle sidebar
-
-Navigation menu
----------------
-
-### Namespaces
-
-*   [Page](/France "View the content page [c]")
-*   [Discussion](/Talk:France "Discussion about the content page [t]")
-
-### Variants
-
-### Views
-
-*   [Read](/France)
-*   [Edit](/index.php?title=France&veaction=edit "Edit this page [v]")
-*   [Edit source](/index.php?title=France&action=edit "Edit this page [e]")
-*   [View history](/index.php?title=France&action=history "Past revisions of this page [h]")
-
-### More
-
-*   This page was last modified on 5 May 2023, at 22:35.
-*   Content is available under [Attribution-ShareAlike 3.0](https://central.paradoxwikis.com/Central:Copyrights "central:Central:Copyrights") unless otherwise noted.
-
-*   [About Europa Universalis 4 Wiki](https://central.paradoxwikis.com/Central:About "central:Central:About")
-*   [Mobile view](https://eu4.paradoxwikis.com/index.php?title=France&mobileaction=toggle_view_mobile)
-*   [Main Page](/Europa_Universalis_4_Wiki "Europa Universalis 4 Wiki")
-*   [Paradox Wikis](https://paradoxwikis.com/ "paradoxwiki:")
-*   [Privacy Policy](https://legal.paradoxplaza.com/privacy?locale=en)
-
-*   [![Attribution-ShareAlike 3.0](https://licensebuttons.net/l/by-sa/3.0/88x31.png)](https://creativecommons.org/licenses/by-sa/3.0/)
-*   [![Powered by MediaWiki](/resources/assets/poweredby_mediawiki_88x31.png)](https://www.mediawiki.org/)
-
-[![](https://forum.paradoxplaza.com/forum/styles/paradox/paradox/logotype_white.svg)](https://www.paradoxinteractive.com)
-
-Games
-
-*   [Discover](https://www.paradoxinteractive.com/our-games/discover "Discover")
-*   [Our Brands](https://www.paradoxinteractive.com/our-games/our-brands "Our Brands")
-*   [Browse](https://www.paradoxinteractive.com/our-games/all-games "Browse")
-*   [Play on Paradox technology](https://play.paradoxplaza.com/ "Paradox Launcher")
-
-Community
-
-*   [Paradox Forums](https://forum.paradoxplaza.com/forum/index.php "Paradox Forums")
-*   [Paradox Wikis](https://paradoxwikis.com/ "Paradox Wikis")
-*   [Support](https://support.paradoxplaza.com/ "Support")
-
-About
-
-*   [News](https://www.paradoxinteractive.com/media/press-releases/news "News")
-*   [About us](https://www.paradoxinteractive.com/our-company "About us")
-*   [Careers](http://career.paradoxplaza.com/ "Careers")
-*   [Join our playtests](https://www.paradoxplaza.com/playtest-static-info-ca.html "Join our playtests")
-*   [Media contact](https://www.paradoxinteractive.com/contact/review-codes-and-product-pr "Media contact")
-
-Social Media
-
-*   [](https://www.facebook.com/ParadoxInteractive)
-*   [](https://twitter.com/PdxInteractive)
-*   [](https://www.youtube.com/user/Paradoxplaza)
-*   [](https://www.twitch.tv/paradoxinteractive)
-*   [](https://www.instagram.com/explore/locations/241319129/paradox-interactive/)
-*   [](https://open.spotify.com/artist/75N2nC2KNgaQ1e6bGs0wyc)
-
-*   [Legal Information](https://legal.paradoxplaza.com/ "Legal Information")
-*   [EU Online Dispute Resolution](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage "EU Online Dispute Resolution")
-
-*   [Terms & Policies](https://legal.paradoxplaza.com/ "Terms & Policies")
-*   [Legal Information](https://www.paradoxplaza.com/legal-static-info-ca.html "Legal Information")
-*   [EU Online Dispute Resolution](https://ec.europa.eu/consumers/odr/main/index.cfm?event=main.home.chooseLanguage "EU Online Dispute Resolution")
-*   [Frequently Asked Questions](https://www.paradoxplaza.com/faq-static-info-ca.html "Frequently Asked Questions")
-*   [Paradox Interactive corporate website](http://www.paradoxinteractive.com/ "Paradox Interactive corporate website")
-
-(RLQ = window.RLQ || \[\]).push(function () { mw.config.set({ wgPageParseReport: { limitreport: { cputime: "0.786", walltime: "1.139", ppvisitednodes: { value: 11460, limit: 1000000 }, postexpandincludesize: { value: 185550, limit: 2097152 }, templateargumentsize: { value: 64301, limit: 2097152 }, expansiondepth: { value: 16, limit: 40 }, expensivefunctioncount: { value: 0, limit: 100 }, "unstrip-depth": { value: 0, limit: 20 }, "unstrip-size": { value: 70948, limit: 5000000 }, timingprofile: \[ "100.00% 801.409 1 -total", " 39.38% 315.584 1 Template:Country\_navbox", " 38.90% 311.729 1 Template:Navbox", " 21.48% 172.144 6 Template:Decision", " 21.44% 171.820 7 Template:Infobox", " 19.53% 156.481 1 Template:Country", " 14.62% 117.199 74 Template:Icon", " 9.18% 73.532 1 Template:Opinion\_modifier", " 2.06% 16.469 1 Template:Startup", " 1.92% 15.423 8 Template:SVersion", \], }, cachereport: { timestamp: "20230606024722", ttl: 86400, transientcontent: false, }, }, }); });
-
-<iframe src="//www.googletagmanager.com/ns.html?id=GTM-5QW7SS" height="0" width="0" style="display: none; visibility: hidden" ></iframe >
-
-(function (w, d, s, l, i) { w\[l\] = w\[l\] || \[\]; w\[l\].push({ "gtm.start": new Date().getTime(), event: "gtm.js" }); var f = d.getElementsByTagName(s)\[0\], j = d.createElement(s), dl = l != "dataLayer" ? "&l=" + l : ""; j.async = true; j.src = "//www.googletagmanager.com/gtm.js?id=" + i + dl; f.parentNode.insertBefore(j, f); })(window, document, "script", "dataLayer", "GTM-5QW7SS"); (RLQ = window.RLQ || \[\]).push(function () { mw.config.set({ wgBackendResponseTime: 1248 }); });
