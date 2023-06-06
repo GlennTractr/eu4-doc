@@ -1,6 +1,6 @@
 import TurndownService from "turndown";
 
-import { readFile, writeFile } from "fs/promises";
+import { readFile, writeFile, readdir } from "fs/promises";
 // import { } from 'fs-extra';
 
 console.log("Start!");
@@ -18,8 +18,10 @@ async function htmlToMarkdown(path: string): Promise<string> {
   return markdown;
 }
 
-htmlToMarkdown("Incident_events.html").then((markdown) => {
-  console.log("End read!", markdown);
+readdir("./docs-html").then(async (files) => {
+  for (let file of files) {
+    await htmlToMarkdown(file);
+  }
 });
 
 console.log("End!");
